@@ -1,7 +1,7 @@
 # box-emoji-marcacao-hashtag
 textarea com emoji e marcação de hashtag - HTML5 CSS3 PHP JS(jquery)
 
-#php
+# PHP
 função marcacoes de para codificar a marcação da hastag 
 usando replace com regexp 
 
